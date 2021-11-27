@@ -5,9 +5,9 @@ In this challenge, we were tasked with expanding on our previous analysis of wea
 
 ## Results
 After using a query to create DataFrames for both June and December Temperatures, we found the following to be true:
-    - June's was on average 4 degrees hotter than December with a mean of roughly 75&deg;F compared to 71&deg;F
-    - December's 3rd quartile was 3 dregrees cooler than June's at 74&deg;F and 77&deg;F respectively
-    - December had more outliers with a standard deviation of 3.75 compared to June's which was 3.25
+  - June's was on average 4 degrees hotter than December with a mean of roughly 75&deg;F compared to 71&deg;F
+  - December's 3rd quartile was 3 dregrees cooler than June's at 74&deg;F and 77&deg;F respectively
+  - December had more outliers with a standard deviation of 3.75 compared to June's which was 3.25
     
 ![june_temps](Analysis/june_temps.png)
 ![dec_temps](Analysis/dec_temps.png)
