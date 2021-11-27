@@ -14,5 +14,6 @@ After using a query to create DataFrames for both June and December Temperatures
     
 ## Summary
 After comparing the analyses, it can be gathered that June and December are not dissimilar in their temperature trends, with June only being a few degrees warmer on average. This dataset included weather readings across several years which increses the reliability of this analysis. With there being a minimal difference in the average temperature at the start of both summer and winter, more analysis should be completed to discover further trends and create a more complete picture before a final decision is reached. Additional queries could instead look at temperatures from February and August instead to see if there is the same relationship between averages at the end of each season. Weekly averages also might offer a clearer picture in temperature trends. Finally, we also ran queries for precipitation trends in both June and December and found that December was slightly wetter than June but not by a significant margin.
+
 ![june_prcp](Analysis/june_prcp.png)
 ![dec_prcp](Analysis/dec_prcp.png)
